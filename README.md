@@ -1,6 +1,6 @@
 # Svitlana's Digital Corner
-Personal website.
+Personal website. Live on [svee.me](https://svee.me).
 
-<br>
+
 _Built with [quartz](https://quartz.jzhao.xyz/)._
 
