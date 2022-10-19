@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: Svitlana Midianko's digital corner
 enableToc: false
 ---
 
