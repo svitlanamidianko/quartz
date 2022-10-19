@@ -70,14 +70,14 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "🪴 Svitlana' Digital Corner"
 
 # links to show in the footer
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/svitlana_mm
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/svitlanamm/
 ```
 
 ### Code Block Titles
