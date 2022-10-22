@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Telegram Case Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "34d4edf6dab4c601",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Telegram Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Telegram Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Telegram Case Study.md"
               }
             }
           }
@@ -140,5 +140,16 @@
     "mostRecentAction": ""
   },
   "active": "3f13de92b2e1ad8f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "notes/images/fig5.png.md",
+    "content/notes/Telegram Case Study.md",
+    "notes/images/kanomodel.png",
+    "notes/images/google-domains.png.md",
+    "content/notes/callouts.md",
+    "content/notes/updating.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/troubleshooting.md"
+  ]
 }
