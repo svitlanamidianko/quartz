@@ -18,6 +18,7 @@ Telegram offers a wide range of features, which  [Kano Mode](https://en.wikipedi
 
 N. Kano, the creator of this model, suggests that to satisfy customer satisfaction and differentiate a product, one needs to have must-haves and performance features that are at least as good as competitors. Next, each simple extra feature is what defines user’s experience the most and contributes to the "wow" effect.  
 ![kanomodel](/tg/kanomodel.png)
+<img src="/tg/kanomodel.png" alt="kano model diagram" width="100"/>
 
 On top of must-haves and excellent performance, Telegram has a wide range of delightful features which various user segments benefit from. For example, blockchain enthusiasts prefer enhanced security, programmers use developer tools, and general users love customizability. 
 ![[notes/images/fig2.png| inlR ]]
@@ -25,6 +26,7 @@ On top of must-haves and excellent performance, Telegram has a wide range of del
 What makes Telegram stand out is that it affords two things: 
 1.  the exchange of information in `1-to-1` chats or `many-to-many` group chats; 
 2. the dissemination of information in `1-to-many` channels (that could have up to 200,000 subscribers!). Consequently, Telegram makes itself a one-stop shop for anything  information-related.
+
 ![fig3](/tg/fig3.png)
 
 Also, these features have a lot of delightful additions. For example, chats afford reactions, stickers, video circles, polls, video-calls, and location sharing, whereas channels also allow for Clubhouse-like audio-chats.
