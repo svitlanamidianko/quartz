@@ -10,7 +10,7 @@ Telegram is a messaging service founded in 2013 by brothers Pavel and Nikolai Du
 In this case study, I argue that Telegram delivers a superior User Experience by differentiating itself in a market and applying the leading UX/UI principles. I propose a new feature that should make its market positioning even more unique.
 
 > [!Thinking thoughts] 
->  Telegram differs from all of its competitors in its business structure as it has not been monetizing (and hence generating revenue) and solely relied on charities. How much does this factor influence Telegram UX success?
+Telegram differs from all of its competitors in its business structure as it has not been monetizing (and hence generating revenue) and solely relied on charities. How much does this factor influence Telegram UX success?
 
 # Part 1. Soo, what is this product about?
 ## Feature Set - Kano Model
