@@ -1,6 +1,8 @@
 ---
-title: Telegram Product Case Study
+title: Product Case Study ft. Telegram
 enableToc: false
+tags: product
+menu: "mainmenu"
 ---
 # Introduction
 _Written in April 2022_
@@ -9,7 +11,7 @@ Telegram is a messaging service founded in 2013 by brothers Pavel and Nikolai Du
 
 In this case study, I argue that Telegram delivers a superior User Experience by differentiating itself in a market and applying the leading UX/UI principles. I propose a new feature that should make its market positioning even more unique.
 
-> **:thinking: Thinking thoughts**
+> **Thinking thoughts:**
 > Telegram differs from all of its competitors in its business structure as it has not been monetizing (and hence generating revenue) and solely relied on charities. How much does this factor influence Telegram UX success?
 
 # Soo, what is this product about?
@@ -18,7 +20,6 @@ Telegram offers a wide range of features, which  [Kano Mode](https://en.wikipedi
 
 N. Kano, the creator of this model, suggests that to satisfy customer satisfaction and differentiate a product, one needs to have must-haves and performance features that are at least as good as competitors. Next, each simple extra feature is what defines user’s experience the most and contributes to the "wow" effect.  
 ![kanomodel](/tg/kanomodel.png)
-<img src="/tg/kanomodel.png" alt="kano model diagram" width="100"/>
 
 On top of must-haves and excellent performance, Telegram has a wide range of delightful features which various user segments benefit from. For example, blockchain enthusiasts prefer enhanced security, programmers use developer tools, and general users love customizability. 
 ![[notes/images/fig2.png| inlR ]]
