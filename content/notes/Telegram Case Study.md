@@ -17,7 +17,7 @@ Telegram differs from all of its competitors in its business structure as it has
 Telegram offers a wide range of features, which  [Kano Mode](https://en.wikipedia.org/wiki/Kano_model) can describe quite well. The model distinguishes between 3 types of features - must haves (basic), performers, and delighters.
 
 N. Kano, the creator of this model, suggests that to satisfy customer satisfaction and differentiate a product, one needs to have must-haves and performance features that are at least as good as competitors. Next, each simple extra feature is what defines user’s experience the most and contributes to the "wow" effect.  
-![kanomodel](static/tg/kanomodel.png)
+![kanomodel](/tg/kanomodel.png)
 
 On top of must-haves and excellent performance, Telegram has a wide range of delightful features which various user segments benefit from. For example, blockchain enthusiasts prefer enhanced security, programmers use developer tools, and general users love customizability. 
 ![[notes/images/fig2.png| inlR ]]
