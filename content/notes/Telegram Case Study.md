@@ -9,8 +9,9 @@ Telegram is a messaging service founded in 2013 by brothers Pavel and Nikolai Du
 
 In this case study, I argue that Telegram delivers a superior User Experience by differentiating itself in a market and applying the leading UX/UI principles. I propose a new feature that should make its market positioning even more unique.
 
-> [!Thinking thoughts] 
-Telegram differs from all of its competitors in its business structure as it has not been monetizing (and hence generating revenue) and solely relied on charities. How much does this factor influence Telegram UX success?
+> Thinking thoughts
+> 
+> Telegram differs from all of its competitors in its business structure as it has not been monetizing (and hence generating revenue) and solely relied on charities. How much does this factor influence Telegram UX success?
 
 # Part 1. Soo, what is this product about?
 ### Feature Set - Kano Model
@@ -52,8 +53,10 @@ However, any application can be improved, and given that Telegram now has found 
 
 Before brainstorming, it is important to outline the user segments and user persona.
 ![[notes/images/fig7.png]]
+
 Given the huge rise of the creator and influencer economy, I focus on writers/influences from the channels category. The user persona fitting this category is shown below.
 ![[notes/images/fig8.png]]
+
 To address the user persona's needs, I suggest implementing a feature that replicates offline relationships more closely. Specifically, Joley seems to hang out with various people and friend groups. She shares different types of updates and details with each of those groups and individuals. She has her followers divided into "close friends" and "friends " on Instagram." However, she shares her main content on Telegram, and she wishes that there were more levels of intimacy on top of Instagram's taxonomy of “friends” and “close friends”.
 
 For example, an influencer might have one channel called "Updates from amazing Joley," in which she shares all kinds of thoughts, videos, photos, and findings with 10,000 of her subscribers. But among those subscribers, some users are patrons, close friends, partners, or family. In its current configuration, the Telegram channel only allows the "all or nothing" option - sharing a message there with 10,000 people or no one.
