@@ -4,6 +4,7 @@ enableToc: false
 menu: 
     mainmenu:
         name: "Staying curious"
+        weight: 3
 ---
 # Main source of reads to fuel curiosity
 I love using curius.app (aka social reading / bookmark too) to source good readings, discuss & geek out about tech, life, society, products, spirituality, cultures with my friends. Curius gives me a huge dose of brain stimulation every day and I could not recommend this tool more. 

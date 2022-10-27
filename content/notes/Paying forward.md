@@ -4,6 +4,7 @@ enableToc: false
 menu: 
     mainmenu: 
         name: "Paying forward"
+        weight: 5
 ---
 # Thanks 
 So many people helped me become the person I am today. I would love to pay forward, see ways I can help in the end of the page. 
