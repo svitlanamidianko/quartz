@@ -22,7 +22,6 @@ N. Kano, the creator of this model, suggests that to satisfy customer satisfacti
 On top of must-haves and excellent performance, Telegram has a wide range of delightful features which various user segments benefit from. For example, blockchain enthusiasts prefer enhanced security, programmers use developer tools, and general users love customizability. 
 ![[notes/images/fig2.png| inlR ]]
 ### Differentiating Feature - Chats *and* Channels
-
 What makes Telegram stand out is that it affords two things: 
 1.  the exchange of information in `1-to-1` chats or `many-to-many` group chats; 
 2. the dissemination of information in `1-to-many` channels (that could have up to 200,000 subscribers!). Consequently, Telegram makes itself a one-stop shop for anything  information-related.
