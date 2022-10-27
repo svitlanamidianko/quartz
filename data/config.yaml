@@ -11,14 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/svitlanamidianko/quartz
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Svitlana's digital corner.
 page_title:
-  "🪴 Svitlana's Digital Corner"
+  "🌅"
 links:
   - link_name: Twitter
     link: https://twitter.com/svitlana_mm
