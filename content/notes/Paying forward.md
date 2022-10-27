@@ -7,7 +7,7 @@ menu:
 ---
 # Thanks 
 So many people helped me become the person I am today. I would love to pay forward, see ways I can help in the end of the page. 
-In  the meantime, this is an ongoing list of many thanks.
+In  the meantime, this is an ongoing list of people I am grateful for.
 - To my parents and sister. Thanks to my mom for trusting me and letting me do an exchange when I was 15. 
 - To Camila for always encourging me to be aware of morals and ethics; for making me take philosophy class that sparked philosophy curiousity
 - To Galyna, my scout leader, who taught me how to survive in the woods for 10 days with no basic amenties and build my own bathroom, kitchen, shower out of wood. She is a super-hero. 
