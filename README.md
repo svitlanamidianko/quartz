@@ -7,6 +7,7 @@ Personal website. Live on [svee.me](https://svee.me).
 - connect to domain
 - connect to some analytics
 - change the main icon (tab)
+- try hovering
 
 
 ## Log of actions
