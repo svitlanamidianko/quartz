@@ -1,7 +1,6 @@
 ---
-title: Staying Curious
+title: Staying curious
 enableToc: false
-tags: curious
 menu: "mainmenu"
 ---
 # Main source of reads to fuel curiosity

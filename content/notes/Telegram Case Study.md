@@ -2,7 +2,6 @@
 title: Product Case Study ft. Telegram
 enableToc: false
 tags: product
-menu: "mainmenu"
 ---
 # Introduction
 _Written in April 2022_
