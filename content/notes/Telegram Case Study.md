@@ -13,13 +13,13 @@ In this case study, I argue that Telegram delivers a superior User Experience by
 Telegram differs from all of its competitors in its business structure as it has not been monetizing (and hence generating revenue) and solely relied on charities. How much does this factor influence Telegram UX success?
 
 # Part 1. Soo, what is this product about?
-## Feature Set - Kano Model
-Telegram offers a wide range of features, which  [Kano Mode](https://www.productplan.com/glossary/kano-model/#:~:text=The%20Kano%20Model%20(pronounced%20%E2%80%9CKah,are%20likely%20to%20satisfy%20customers.)[l](https://www.productplan.com/glossary/kano-model/#:~:text=The%20Kano%20Model%20(pronounced%20%E2%80%9CKah,are%20likely%20to%20satisfy%20customers.) can describe quite well. The model distinguishes between 3 types of features - must haves (basic), performers, and delighters.
+### Feature Set - Kano Model
+Telegram offers a wide range of features, which  [Kano Mode](https://en.wikipedia.org/wiki/Kano_model) can describe quite well. The model distinguishes between 3 types of features - must haves (basic), performers, and delighters.
 
 N. Kano, the creator of this model, suggests that to satisfy customer satisfaction and differentiate a product, one needs to have must-haves and performance features that are at least as good as competitors. Next, each simple extra feature is what defines user’s experience the most and contributes to the "wow" effect.  ![[static/tg/kanomodel.png | inlR ]]
 
 On top of must-haves and excellent performance, Telegram has a wide range of delightful features which various user segments benefit from. For example, blockchain enthusiasts prefer enhanced security, programmers use developer tools, and general users love customizability. ![[notes/images/fig2.png| inlR ]]
-## Differentiating Feature - Chats *and* Channels
+### Differentiating Feature - Chats *and* Channels
 
 What makes Telegram stand out is that it affords two things: 
 1.  the exchange of information in `1-to-1` chats or `many-to-many` group chats; 
@@ -28,7 +28,7 @@ What makes Telegram stand out is that it affords two things:
 
 Also, these features have a lot of delightful additions. For example, chats afford reactions, stickers, video circles, polls, video-calls, and location sharing, whereas channels also allow for Clubhouse-like audio-chats.
 
-## UX/UI Principles in Use
+### UX/UI Principles in Use
 
 Many principles have been developed in the design community that reinforce great user experience. Still, **simplicity** is one of the most useful heuristics to follow. Approaching product development with a “less is more” attitude creates an intuitive and straightforward UX flow associated with positive feelings for the end-user, empowering them and showing that anyone is wise to use the app.
 
