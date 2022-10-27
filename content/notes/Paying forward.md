@@ -1,7 +1,9 @@
 ---
 title: Paying forward
 enableToc: false
-menu: "mainmenu"
+menu: 
+    mainmenu: 
+        name: "Paying forward"
 ---
 # Thanks 
 So many people helped me become the person I am today. I would love to pay forward, see ways I can help in the end of the page. 

@@ -1,5 +1,7 @@
 ---
-title: Work and product 
+title: Work 
 enableToc: false
-menu: "mainmenu"
+menu: 
+    mainmenu: 
+        name: "Work"
 ---
